@@ -1,4 +1,4 @@
-<img src="Icon.png" align="left" />
+<img src="preview/AppIcon.png" align="left" />
 
 # Cable City Database
 This project was to develop an Oracle based database for an electronic store chain and migrate their existing data with over 10,000 users and 5000 products.
